@@ -2,7 +2,7 @@
 may work or not work it worked for me on my jetson orin nano.
 
 
-# JetCobot 7-DOF ROS2 Package 🤖
+# JetCobot 7-DOF ROS2 Package 
 
 ROS2 package for controlling the **Yahboom JetCobot 7 DOF collaborative robotic arm**  
 with Jetson Nano / Jetson Orin and ROS2 (tested with Humble / Foxy style layout).
@@ -26,7 +26,7 @@ with Jetson Nano / Jetson Orin and ROS2 (tested with Humble / Foxy style layout)
 ## Installation
 
 ```bash
-# In your ROS2 workspace
+# in ros2.
 cd ~/ros2_ws/src
 git clone https://github.com/<your-username>/ros2-jetcobot-arm.git
 cd ..
